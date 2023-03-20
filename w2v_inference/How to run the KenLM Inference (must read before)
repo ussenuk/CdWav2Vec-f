@@ -1,0 +1,28 @@
+First 
+
+make sure the folder inference/support is inside lingWav2Vec/w2v_inference/infer then change the line 282 to   from inference.support import W2lKenLMDecoder
+
+create results folder under lingWav2Vec/w2v_inference
+
+(1) Lingala KenLM Decoding
+
+second step  
+
+perform inference on the subset set
+(pyenv) ubuntu@ip-172-31-46-11:~/lingWav2Vec/w2v_inference/infer$ CUDA_VISIBLE_DEVICES=0 python3 infer.py /home/ubuntu/lingWav2Vec/w2v_inference/datasets_test/lingala/ --task audio_finetuning --nbest 1 --path /home/ubuntu/lingWav2Vec/model_output/multilingual/finetuned_on_lingala/checkpoint_best.pt --gen-subset valid --results-path /home/ubuntu/lingWav2Vec/w2v_inference/results/ --w2l-decoder kenlm --lm-model /home/ubuntu/lingWav2Vec/lm_data/lingala/lm.binary --lm-weight 0 --word-score 0 --sil-weight 0 --criterion ctc --labels ltr --max-tokens 500000 --lexicon /home/ubuntu/lingWav2Vec/lm_data/lingala/lexicon.lst --post-process letter --beam 128
+
+third step 
+
+perform calculation in infer/wer
+
+(pyenv) ubuntu@ip-172-31-46-11:~/lingWav2Vec/w2v_inference/infer/wer$ python3 calculate_wer.py -o /home/ubuntu/lingWav2Vec/w2v_inference/datasets_test/lingala/valid.wrd -p /home/ubuntu/lingWav2Vec/w2v_inference/results/hypo.word-checkpoint_best.pt-valid.txt -t /home/ubuntu/lingWav2Vec/w2v_inference/datasets_test/lingala/valid.tsv -s save -n /home/ubuntu/lingWav2Vec/w2v_inference/results/sentence_wise_wer.csv -e true
+
+(3) Congolese Swahili KenLM Decoding
+
+second step 
+
+(pyenv) ubuntu@ip-172-31-30-103:~/lingWav2Vec/w2v_inference/infer$ CUDA_VISIBLE_DEVICES=0 python3 infer.py /home/ubuntu/lingWav2Vec/w2v_inference/datasets_test/swc/ --task audio_finetuning --nbest 1 --path /home/ubuntu/lingWav2Vec/model_output/swc_fine_tuning_checkpoints2/checkpoint_best.pt --gen-subset test --results-path /home/ubuntu/lingWav2Vec/w2v_inference/results/ --w2l-decoder kenlm --lm-model /home/ubuntu/lingWav2Vec/lm_data2/swc/lm.binary --lm-weight 0 --word-score 0 --sil-weight 0 --criterion ctc --labels ltr --max-tokens 500000 --lexicon /home/ubuntu/lingWav2Vec/lm_data2/swc/lexicon.lst --post-process letter --beam 128
+
+third step 
+
+python3 calculate_wer.py -o /home/ubuntu/lingWav2Vec/w2v_inference/datasets_test/swc/test.wrd -p /home/ubuntu/lingWav2Vec/w2v_inference/results/hypo.word-checkpoint_best.pt-test.txt -t /home/ubuntu/lingWav2Vec/w2v_inference/datasets_test/swc/test.tsv -s save -n /home/ubuntu/lingWav2Vec/w2v_inference/results/sentence_wise_wer.csv -e true

@@ -1,0 +1,384 @@
+original,predicted,wer:22.13,cer:6.85,num_tokens,num_chars,substitutions,insertions,deletions
+tshotsho kodiongo amilobeli na se ya motema nayebaka te nini etinda ngai naloba ke nawuta barumbu,tshotho kodiongo amilobeli na se ya motema nayebika te nini tii na ngai naloba que nawuta barumbu,5,7,16,82,4,1,0
+na kesi ya leta bambɔgɔ ezali kobima po na kobongisa banzela,na kese ya leta mbɔngɔ ezali kobima po na kobongisa banzela,2,4,11,50,2,0,0
+na ndenge babatelinzoto bakimisaki ya na motuka,na ndenge babatelinzoto bakimisaki ye na motuka,1,1,7,41,1,0,0
+mokolo wana tango oyaki nayokaki posa ya kozinda na se ya mabele,mokolo wana tango oyaki nayokaki mposa ya kozinga na se ya mabele,2,2,12,53,2,0,0
+sukasuka akoya kofanda awa libela,sukasuka akoya kofanda awa libela,0,0,5,29,0,0,0
+tala ebembe ya mama na yɔ,tala ebemba mama na yɔ,2,2,6,20,1,0,1
+ayɔki ata kosukosu te,ayoke ata kosokosu te,2,3,4,18,2,0,0
+atali esika motuka etelemaki,atali esika motuka etelemaki,0,0,4,25,0,0,0
+na bavote yango kasi na polele boye aseki,na bavoti yango kasi na polele boye aseki,1,1,8,34,1,0,0
+bakomɛla yɔ okozanga esika okokɛndɛ kofunda,lokola babengi yɔ masta posopi bunu,6,29,6,38,4,1,1
+mwananyoka apusani pεnε na ye azwi kopo ya masanga amelisi excellence,mwananyoka apusani pεnε na ye azwi kopo ya masanga amelise ecelante,2,5,11,59,2,0,0
+ekipi mosusu kombo na yango ezalaki bana ya kin,ekipi mosusu kombo na yango ezalaki bana ya kilo,1,2,9,39,1,0,0
+mibali oyɔ onyɔkɔlaki pe obomaki bazali bandeko na ngai,mibali oyɔ nyɔkolaki pe obomaki bazali bandeko na ngai,1,2,9,47,1,0,0
+mwana moninga mawa te,bwana moninga monga te,2,4,4,18,2,0,0
+mwasi oyɔ bazalaki kobenga atelemi,mwasi oyɔ bazalaki kobenga atelemi,0,0,5,30,0,0,0
+bozwa yango na ndenge ya mabe te,bozwa yango na ndenge ya mabe te,0,0,7,26,0,0,0
+kozonga azozonga na kolεmba wana nyɔnso makanisi kaka aya kopemisa molimo na tolo ya muji,kozonga azozonga na kolemba wana nyɔnso makanisi kaka aya kopemisa amilimo na tolo ya moki,3,5,15,75,3,0,0
+soki olandi elimboli ya bakɔkɔ nzambe atia mibeko oyɔ etambusaka mokili,soki olali elimboli ya bakɔkɔ nzambe atiya mibeko oyɔ etambusaka mokili,2,3,11,61,2,0,0
+ngai nazodondwa,ngai nazo dodon,2,3,2,14,1,1,0
+ayebi mongongo wana malamu,ayebi mongongo wana malamu,0,0,4,23,0,0,0
+yɔ obosani que biso mutu tobanda masolo ya bavilla,yɔ obosani que biso mɔtɔ tobandi masolo ya bavila,3,4,9,42,3,0,0
+na ntaka na bametre mibale atelemi,na ntaka na bametre mibale atelemi,0,0,6,29,0,0,0
+bino ko  boza mikieee,bino ko bozami ke,2,3,4,17,2,0,0
+ayebi nanu te nini akosala soki abalusi miso na ye po na kotala mɔtɔ oyɔ azalaki kobenga ye na lofundu nyɔnso,ayebi nanu te nini akosala soki ya balusi miso na ye mpo na kotala mɔtɔ oyɔ azalaki kobenga ye na lofuzo nyɔnso,4,5,21,89,3,1,0
+lokola mosisa ya nsɔni bakata ye wana abendi pe kiti afandi,lokola mosukaa ya nsɔni makata ye wana abendi pe kiti pe afandi,3,6,11,49,2,1,0
+bopotani na kabila kuna atie yɔ na mopanzi mbala moko okomi mutu ya opposition,opotaki na kabila akuna atshoyo mopanzi mbala moko ko me mutɔ oposition,9,15,14,65,7,0,2
+kuna na kimbanseke pere na bino azalaki koloba ke azali nani,kuna na kimbasani ku per na bino azalaki koloba que azali nani,4,8,11,50,3,1,0
+otangaki yango wapi,otangaki yango wapi,0,0,3,17,0,0,0
+ndako ya mbεlε,ndako ya mbεlε,0,0,3,12,0,0,0
+tshotsho alingi alakisa kimobali akiti na motuka,thoto alingi alakisa kimobali akiti na motuka,1,3,7,42,1,0,0
+er wana kimbanseke ezalaki mingi bamboka ya bakongo,pere wana cimansece ezalaki mingi bamboka ya bakongo,2,5,8,44,2,0,0
+nakozala te mokolo kongo ekotelema,nakozala te mokolo omi kotelema,2,5,5,30,2,0,0
+esengi kaka ndenge ndeko eliezer alobaka  benda molayi tii bakolεmba,esangi kaka ngdenge ndekoelezer ralobaka banda molayi tii bakolemba,7,6,10,58,6,0,1
+atuni muji balobi na ye ete ayaki kaka na ntɔngɔ kotika bafungola pe akeyi,atungi muji balobi na ye ete ayaki kaka na ntɔngɔ kotikafungola mpe akeyi,4,4,14,61,3,0,1
+abeleli mama moko azalaki kolekana,abeleli mama moko azalaki kolekana,0,0,5,30,0,0,0
+tokolangwa na lar na yɔ te,tolangwana lar na yɔ ta,3,3,6,21,2,0,1
+na nkoto mibale na zomi na nsambo lopango ya suka etikalaki yango wana,na nkoto mibale na zomi na sambo lopango ya suka etikalaki yango wana,1,1,13,58,1,0,0
+po na yango moflato to matolo ezosala ete mɔtɔ azali na makanisi ya malamu ya kopesa kasi abombi yango,po na yango mofalatoto matolo ezosala ete mɔtɔ azali na makanisi ya malamu ya kopesa kasi abombi yango,2,1,19,84,1,0,1
+kimya oyɔ ya ye,kimya oyɔ ya ye,0,0,4,12,0,0,0
+tika koloba boye,tika koloba boye,0,0,3,14,0,0,0
+mokonzi nzela oyɔ azali kolanda ezali malamu te,mokonzi nzela oyɔ azalaki kolanda ezalaki malamu te,2,4,8,40,2,0,0
+soki osali bongo te ozali zoba,soki osali bongo te ozali zoba,0,0,6,25,0,0,0
+akoti na epemelo ya lokumu ya libanda ya pepo ya ndjili,akoti na epemelo ya lokumu ya libanda ya pepo ya ndjili,0,0,11,45,0,0,0
+bana ya barumbu bakabwani na kondongwana,bana ya barumbu bakabwani na kodongwana,1,1,6,35,1,0,0
+mere na biso kutu azobeta lisolo ke tangu sukuma ya lumumba ezosalama pere atambola zambazamba,mer na biso kutu azobeta lisolo que tangu sukuma ya lumumba ezosalama per atambola zambazamba,3,4,15,80,3,0,0
+excellence azalaki na mobembo na libanda,excellance azalaki na mobembo na libanda,1,1,6,35,1,0,0
+yɔ pe ozalaka mwana ya barumbu,yɔ pe ozalaka mwana ya marombo,1,3,6,25,1,0,0
+uta mokolo wana po na jeannine mosolo ezanga bolingo efandaka na epemelo wana,uta mokolo wana po na jeannine masolo ezanga bolingo efandaka na epemelo wana,1,1,13,65,1,0,0
+tozobeta babale na butu ndeko,tozobeta babali na butu ndeko,1,1,5,25,1,0,0
+na bapanzi sango na bato bango bayambaka balobaka makambu ezanga mɔtɔ na makolo,na bapanze ya sango na bato bango bayambaka balobaka makambo ezanga moto na makolo,4,6,13,67,3,1,0
+tango asilisi kolia likanisi eyeli ye,tango asilisi kolia likanisi eyeli ye,0,0,6,32,0,0,0
+bafinga ye na mpwasa,bafinga ye la mpwasa,1,1,4,17,1,0,0
+oyɔ ya kobela opesi mbɔngɔ ya lopitalo oyɔ ya mbɔngɔ ya kelasi opesi oyɔ bazali na nzala opesi,oyɔ ya kobela opesi mbɔngɔ ya lopitalo oyɔ ya mbɔngɔ ya kelasi pesi oyɔ bazali na nzala opesi,1,1,18,77,1,0,0
+obandaki awa oo bino batu ya chantier mitano,tobanda ki awa oyɔ bino bato ya cinq chante,6,15,8,37,5,1,0
+azosambwisa ngai na miso ya bato,ozosambwisa ngai na miso ya bato,1,1,6,27,1,0,0
+akonzi baposa ya kolela oyɔ ezalaki ko matela ye na miso,akonzi ba mposa ya kolela oyɔ ezalaki komatela ye na miso,4,1,11,46,2,1,1
+oyebi yango malamu,oyebi yango malamu,0,0,3,16,0,0,0
+akobi na kolobaka ete soki bobwakisi ngai bokotiya nani,akobi nakoloba ete soki bobwakisi ngai bokotiya nani,2,2,9,47,1,0,1
+kompani omonaki ya kotongela biso kompani ya kindumba,kompani omonaki ya kotongela biso kompani ya kindumba,0,0,8,46,0,0,0
+liputa na elongi ya excellence apangusi ye mɔtɔki,liputa na elongi ya excellence apangisi ye mɔtɔ te,3,3,8,42,2,1,0
+bokasa tala ndenge ekoma,bokasa tala ndenge ekoma,0,0,4,21,0,0,0
+na mobulu wana mokumbi amonaki te ete libulu moko ya monene ezalaki na matakanelo ya bokasa pe kabambare,na mobulu wana mokumbi amonaki te ete libulu moko ya monene ezalaki na mataka elo ya a bokasa,5,13,18,87,1,2,2
+tokolangwa na moins cher,tolangwana mwi she e,4,6,4,21,4,0,0
+bamomi tout bakomaki bamomi na yɔ,bamomi tu bakoma ye bamomi na yɔ,3,4,6,28,2,1,0
+tata oyɔ ya pawu soki kaka vide emonani amamoli pawu,tata oyɔ ya pawu soki kaka vile emonani amamoli pawu,1,1,10,43,1,0,0
+tshotsho pe makambo ya politiki eyeli na elulu azwi lisusu tango ya koluka muji te,tshotho pe makambo ya politiki eyeli na elulu azwi lisusu ntango ya koluka moji te,3,3,15,68,3,0,0
+otanga na ecole nini,otanga na ecol nini,1,1,4,17,1,0,0
+po ndelo oyɔ mwananyoka abongisaki ndako wana oza na likanisi te,po nzelo oyɔ mwana nyoka abongusaki ndako wana aza na likanisi te,5,3,11,54,4,1,0
+akangisa commissionnaire kasi commissionnaire ayebi te nini akoyebisa muji,akangisa commisionnaire kasi commisionnaire ayebi te nini akoyebisa mogen,3,6,9,66,3,0,0
+boki nasombi ezali kaka luzitu bino bozali na vieux na ngai bosimbi masolo,boki nasombi ezali kaka lozitu bino bozali naviou na ngai bosimbi masolo,3,3,13,62,2,0,1
+bana ya ituri bazangi bamama basi ya beni bazangi mibali mibali ya kasayi bazangi basi,bana ya etul bazangi bamama basi yabene bazangi mibali mibali ya kazali bazangi bafi,5,7,15,72,4,0,1
+mbɔngɔ atikalaki na yango akeyi na ye na yaounde na kamerun,mbɔngɔ atikalaki na yango akeyi na ye na yawunde na cameromt,2,5,11,49,2,0,0
+monano ya suka monano ya suka nayebi lisusu nzela nakoleka te monano ya suka,monano ya suka monano ya suka nayebi lisusu nzela nakoleka te monano ya suka,0,0,14,63,0,0,0
+tango ayei kozonga lisolo ya barumbu esili,ntango ayeyi kozonga lisolo ya barumbu esili,2,2,7,36,2,0,0
+smartphone oyɔ bana ya goma na bukavu bakɔkɔka kosomba te,smarte fone oyɔ bana ya goma na bukavu bakokoka kosomba te,3,4,10,48,2,1,0
+mpiaka ekozinga yɔ ndenge moko na baninga nyɔnso oyɔ yɔ omɛlaki bambɔgɔ na bango,piaka ekozenga yɔ ndenge moko na baninga nyɔnso oyɔ yɔ omelaki bambɔgɔ na bango,3,3,14,67,3,0,0
+tshotsho kodiongo asutuki,tshotsho kodiongo asutuki,0,0,3,23,0,0,0
+makanisi ya quartier beau marche pe ebimaki,makanisi ya quartie ebomarche pe ebimaki,3,4,7,37,2,0,1
+tii na ndenge eyaki kolongwa otraco pe ekomaki onatra,tii na ndenge eyaki kolongwa otrapont pe ekomaki natra,2,4,9,45,2,0,0
+afandaka lopango monene kaka ye moko,afandaka lopango monene kaka ye moko,0,0,6,31,0,0,0
+soki ezalaki tangu ya kimya nde jeep ya bana mura elɔkɔteli ngai bango awa bakɛndɛ konyɔngama na ndenge ya mokε te,soki ezalaki tango ya kimia nde djip ya bana mula elokoteli ngai bango awa bakende konyɔngama na ndenge ya mokε te,6,10,21,94,6,0,0
+atelemi ye wana akei na epayi ya kosuba,atelemi ye wana akeyi na epayi ya kosuba,1,1,8,32,1,0,0
+bomoyi ya tshotsho kodiongo esuki na ngonga oyɔ azalaki kozela te,bomoyi ya tshotsho kodiongo esuki na ngonga oyɔ azalaki kozela te,0,0,11,55,0,0,0
+eleki mwa mikolo tshotsho ameseni na kozala te ya muji,eleki mwa mikolo djotio ameseni na kozala te ya muji,1,5,10,45,1,0,0
+telema kɛndɛ,tee nakendɛ,2,3,2,11,2,0,0
+abalusi miso nsima abalusi nzoto mobimba,abalusi miso sema abalusi nzoto mobimba,1,2,6,35,1,0,0
+molunge lokola ezalaki makasi bapeliseli ye etindamalili,mulungi lokola ezalaki makasti bapekiseli ye etinda ma lebni,6,7,7,50,4,2,0
+nsima na yango okoyoka mɔtɔ nyɔnso koloba antuka mboka oyɔ ekobonga te,nsima na yango koyoka mɔtɔ nyɔnso akoloba antuka mboka oyɔ ekobonga te,2,2,12,59,2,0,0
+na motema amilobeli tala bambendre oyɔ kaka po eza tangu ya vote,na motema amilobeli tala bambεnzε oyɔ kaka po eza tango ya vote,2,5,12,53,2,0,0
+auguy amoni ndenge bamvula tuku mibale ya bomoyi naye ekɛnda na fulu,odgi amoni ndenge bamvula ntuku mibale ya bomoyi na ye ekenda na fulu,5,6,12,57,4,1,0
+lobi na yango excellence ayibi mbɔngɔ elεngεlamaki po na kobongisa balabala moko na engumba kikwit,lobi na yango excellance ayibi mbɔngɔ elengelamaki po na kobongisa balabala moko na engumba kikwiti,3,4,15,84,3,0,0
+otekili masta na yɔ asimba staff mawa trop,otikili masta na yɔ asimbastaf mawa tro,4,3,8,35,3,0,1
+akoma pe nsɔmɔ na kosala kitoko ya bandako,akoma pe nsɔmɔ ya kosala kitoko ya bandako,1,1,8,35,1,0,0
+yɔ ozali mwana ya barumbu yɔ,yɔ ozali mwana ya balumbuyo,2,2,6,23,1,0,1
+mɔtɔ ya liboso afingaki ye bongo ezalaki mama ya bana na ye abosanaka yango te,mɔtɔ ya liboso afingai ye bongo ezalaki mama na bana na ye abosanar yango te,3,4,15,64,3,0,0
+kongo ekobosana yɔ ekobosana tii na kombo na yɔ,kongo ekobosana yɔ ekobosana tii na nkombo na yɔ,1,1,9,39,1,0,0
+moyi ezalaki kongala makasi,moyi ezalaki kongana makasi,1,1,4,24,1,0,0
+tshotsho kodiongo motema ekiti,tshotshoka diongo motema ekiti,2,1,4,27,2,0,0
+ayebi que soki afandisi masolo na barumbu te na parti na bango asambwe,ayebi te soki afandisi masolo na balumbu te na parti na bango asambwea,3,4,13,58,3,0,0
+na ndenge ya respect petit tangu akoti na esika bakulutu bazali ezosenga mwa nsamba ekita,na ndenge ya resper peti tango akoti na esika bakulutu bazali ezosenga mwa samba ekita,4,5,15,75,4,0,0
+po eyebana sukasuka bakolongola ye,po eyebana sukasuka bakolongola ye,0,0,5,30,0,0,0
+ameli mayεlε pe bwanya na ye,ameli mayεlε pe bwana na ye,1,1,6,23,1,0,0
+atali ndaku asepeli na yango makasi,atali ndako asepeli na ngoma kalsi,3,4,6,30,3,0,0
+oyɔ mabele ya kimmbangu mabele ya lumumba,oyɔ bamelakimbango mabela ya lumumba,4,7,7,35,2,0,2
+bana beau marche balobi bango nde bapesa genre na barumbu,bana ya bomarche balobi bango nde bapesa jeanre na barumbu,3,6,10,48,3,0,0
+excellence amilobi ndenge ezali,excelance amilobi ndenge ezalion,2,4,4,28,2,0,0
+na lingomba na bango tshotsho kodiongo alobi ete ye alingi kotiya libaya kaka na ma campagne,na lingomba na bango tshotho ko diongo alobi ete ye alingi kotiya libaya kaka na ma campagne,3,1,16,77,2,1,0
+mwananyoka azwi mokano ya koteka lopango yango alimwa na ye na circuit,mwananyoka azwi mokano ya koteka na lopango yango ali mwana ye ne na serpi,5,9,12,59,3,2,0
+asimbi ye na loboko na makasi nyɔnso po atelema,asimbi ye na loboko na makasi nyɔnso po atelema,0,0,9,39,0,0,0
+naloba nini,naloba nini,0,0,2,10,0,0,0
+longwa wana mosika na ngai elima mabe,longwa wana mosika na ngai elima mabe,0,0,7,31,0,0,0
+mɔtɔ pe akotelemela likanisi yango azali te,mɔtɔ pe a kotelemela likanisi yango azali te,2,0,7,37,1,1,0
+ayebisi na barman  barman memela baprêtre mwa boki awa ngai nakofuta,ayebisi barman bamagn memela bapretre moboki awa ngai nakofuta,5,7,11,57,3,0,2
+yɔ na mobeko ozoluka kwanga po na mboka na yɔ,yɔ na mobeko ozoluka cwanga po na mboka na yɔ,1,1,10,36,1,0,0
+akenda atika elaka te,akɛnda atika elaka te,1,1,4,18,1,0,0
+exellence mosusu pe ayibi soki mbɔngɔ ya kotɔnga soki lopitalo asombi yango na milio moko,excelance mosusu mpe ayibi soki mbɔngɔ ya kotonga soki lopitalo asombi yango na ai milɔ,5,12,15,75,5,0,0
+soki mbɔngɔ ya primus esili biso tokosomba agene,soki moko akolemisa esili biso tokosomba egene,4,13,8,41,3,0,1
+amoni elongi ya mama na bango akufa motema na ye ekiti,amoni elongi ya mama na bango akufa i motema na ye ekiti,1,1,11,44,0,1,0
+naweli bokonzi na kisasa nazwi tango te ya kobatela yɔ,nawele bokonzi na kinshasa nazwi ntango te ya kobatela yɔ,3,4,10,45,3,0,0
+baluka bavilla bazwa bavilla,baluka bavilla baza ba villa,3,1,4,25,2,1,0
+makambo na bino ngai moko nakomema yango,makambo na bino ngai moko nakomema yango,0,0,7,34,0,0,0
+soki alobi bongo mokonzi akolongola ye na ezungulukelo,soki alobi bongo mokonzi akolongola ye na ezungulukelo,0,0,8,47,0,0,0
+bazelaki yɔ okɛndɛ koboma bato po oya koleisa bango mbɔngɔ ya botutu,bazelaki yɔ okɛndɛ koboma bato po oya kolekisa bango mbɔngɔ ya bututu,2,2,12,57,2,0,0
+azalaki koloba azalaki kopusana pεnεpεnε ya motuka yango,azalaki koloba azalaki kopusana pelε pεnε ya motuka yango,2,2,8,49,1,1,0
+yɔ okanisi toyebi yɔ te,yɔka nzi toyebi yɔ te,2,3,5,19,2,0,0
+atie bato ya kofutela,atie bato ya kofutela,0,0,4,18,0,0,0
+na tango wana commune bazalaki kobenga yango zone,na tango wana kommine bazalaki kobenga yango zome,2,3,8,42,2,0,0
+ye azoluka kwanga po na mboka na ye,soki okomi koloka po na yɔ moko etali yɔ,7,21,8,28,6,1,0
+mvula nyɔnso akoma koteka lopango moko,mvula nyɔnso akoma koteka lopango moko,0,0,6,33,0,0,0
+soki okoti na kati ya lopango lokola nde bamemi yɔ na ndɔtɔ na miami beach na amerika,soki okoti na lopango lokola nde bamemi yɔ na ndoto na mia mibiki na amerika,5,12,17,69,3,0,2
+sikoyɔ na congo tozali na eleko ya  mwana na mwana azwa partie na ye abendana,sikoyɔ na kongo tozali na elɔkɔ ya mwana na mwana azwa parti na ye abendana,3,4,15,62,3,0,0
+akuti lopango polele bato bazali kokomba kokata matiti kosukola ndako,akuti lopango polele bato bazali kokomba kokata matiti kosukola ndako,0,0,10,60,0,0,0
+baluka maboma bazwa yango,baluka maboma bazwa yango,0,0,4,22,0,0,0
+okanisaki bongo,okanisaki bongo,0,0,2,14,0,0,0
+tozongela lisolo na biso,tozongela lisolo na biso,0,0,4,21,0,0,0
+bomɔtɔ na bango balongolaki,bomɔtɔ na bango balongolaki,0,0,4,24,0,0,0
+balabala mobimba ebukanaki na milolo ya kowolola yɔ,balabala mobimba ebukanaki na milolo ya koolola yɔ,1,1,8,44,1,0,0
+kaka mongongo ya pepe kalle ezonganga na baffle osilisi banganda ya paris oo,kaka mongongo peper cale azogangala bafe osilisi banganda ya pario,8,12,13,64,5,0,3
+na tango wana muji asombi mapango misato na kinshasa,na tango wana muji asombi mapango misato na kinshasa,0,0,9,44,0,0,0
+muji asimbi efuku moko ya badolar,muji asimbe e fuku moko ya badolar,3,1,6,28,2,1,0
+tshotsho kodiongo mɔtɔki ya mpio ebandi kotanga,tshotsho kali ongo motoki ya pio ebandi kotanga,4,5,7,41,3,1,0
+balabala na kikwit batongi te,na balabala na kikuti batongi te,2,5,5,25,1,1,0
+bozongi kongo ndenge bozalaka mabɔkɔ mpamba,bozongi congo ndenge bozalaka mabɔkɔ mpamba,1,1,6,38,1,0,0
+oyɔ ya kolongola retroviseur alongoli retroviseur oyɔ ya kolongola pine alongoli pine oyɔ ya kolongola pare-brise alongoli parebrise,oyɔ ya kolongola retrovisere alongoli retro viseret oyɔ ya kolongola pine alongoli pine oyɔ ya kolongola patrise alongoli patrise,5,12,18,115,4,1,0
+na hotel na yɔ batouriste bayaka,na otel na yɔ batoliste bayaka,2,3,6,27,2,0,0
+soki kaka polele pawu,soki kaka polele pawu,0,0,4,18,0,0,0
+nazali elonga ngai muji mwana ya vieux cesar,nazali elonga ngai mudji mwana ya viocezar,3,5,8,37,2,0,1
+ayebi pe malamu tina nini azali kobenga ye,ayebi pe malamu tina nini azali kobenga ye,0,0,8,35,0,0,0
+lεlɔ oyɔ ozokufa nazotala te,lεlɔ oyɔ ozokufa nazotala te,0,0,5,24,0,0,0
+ayebisa tshotsho mokolo oyɔ baboti na ye bakowuta mbuji mayi,ayebisa thotso mokolo oyɔ baboti na ye bakowuta mbugemayi,3,4,10,51,2,0,1
+nalukaka mbɔngɔ po na yɔ na bana,nalokaka mbɔngɔ po na yɔ na bana,1,1,7,26,1,0,0
+tshotsho kodiongo alobi te nalongwa barumbu kala nazonga kutu kuna te tolongwaki kuna tango tozalaki bana mike,tshotsho kodiongo alobi te nalongwa baumbukala nazonga kutu kuna te tolongwaki kuna tango tozalaki bana mayi,3,4,17,94,2,0,1
+afandi mwa kimya azongisi mokongo na nsima,afandi mwa kimya azongisi mokongo na nsima,0,0,7,36,0,0,0
+azwi elongi atelemisi yango na lolendo ya kimpa vita,azwi elongi atelemisi yango na lolendo ya kimpavita,2,0,9,44,1,0,1
+excellence asilisi kolia fufu na ngayi ngayi ya mosaka na nyama ya zamba,excellanpe asilisi kolia cufut na ngai ngai ya mosaka ma nyama zambaki,7,11,13,60,6,0,1
+kwiti azalaki na yango esili ye,kweti ezalaki na yango esili ye,2,2,6,26,2,0,0
+azalaki na mapango ntuku mibale,azalaki na mapango tuku mibale,1,1,5,27,1,0,0
+soki yɔ okomi koluka po na yɔ moko etali yɔ,bakomela yɔ okozanga esika okokɛndɛ kofunda,9,30,10,34,5,0,4
+mɔtɔ ya mobutu moko tango kabila oyɔ ya tata akotaki na bokonzi alulaki na ndenge nyɔnso azwa ebonga kasi bakipa ye te,moto ya mobutu moko ntango kabila oyɔ ya tata akotaki na bokonzi alukaki na ndenge nyɔnso azwa ebonga kasi bakipale te,5,5,22,97,4,0,1
+bato oyɔ bakonzi basalelaki babwaki kobwakama babwakamaki motema na bango balongolaki,bato oyɔ bakonzi basalelaki babwaki kobwakama babwakanaki motema na bango balongolaki,1,1,11,75,1,0,0
+bino nde bapomba,bino nde ba mpomba,2,1,3,14,1,1,0
+mbɔngɔ na biso tout bobongisa mboka bolingi te,mbɔnga na biso tu bobongisa mboka bolingi te,2,3,8,39,2,0,0
+bato bazalaki kokɛngɛla ye basutuka,bato bazalaki kokengela ye basutuka,1,2,5,31,1,0,0
+bilɔkɔ ya kolia,bilɔkɔ ya kolia,0,0,3,13,0,0,0
+makambo ya kobomana ezalaki te,makambo ya koboma na ezalaki te,2,0,5,26,1,1,0
+mama na ye na bandeko na ye bafandaka kaka na menkao,mama na ye na bandeko na ye bafandaka kaka na mekao,1,1,11,42,1,0,0
+tala ndeko telema na malεmbε,tala ndeko telemwa na malεmbε,1,1,5,24,1,0,0
+toloba nini,toloba nini,0,0,2,10,0,0,0
+moko na matonge mosusu na ndjili oyɔ ya suka na lingwala,moko na matshonge mosusu na ndjili oyɔ ya suka na lingwala,1,2,11,46,1,0,0
+tango motema na ye sanduku etuni ye ebongo sikoyɔ nzela oyɔ ebongaki kotɔnga na kikwit,ntango motema na ye sanduku etuli ye ebongo sikoyɔ nzela oyɔ ebongaki kotɔnga na kikwiti,3,3,15,72,3,0,0
+ya solo oyɔ mpenza ndako ya ministre mokumbεli masolo,ya solo oyɔ mpenza ndako aministe mokumbεeli masolo,3,3,9,45,2,0,1
+kasi baninga balobi na ye  te tozali na mɔtɔ ya solo na barumbu te,kasi baninga balobi na ye te tozali na mɔtɔ ya solo na barumbu te,0,0,14,52,0,0,0
+abongisa ndako na bango kasi azonga te,abongisa ndako na bango kasi azonga te,0,0,7,32,0,0,0
+kimoninga tango bokonzi bakonzi ezalaka te,kimoninga tango bokonzi bakonzi ezalaka te,0,0,6,37,0,0,0
+ngai muji mwana ya mama misi,ngai muzi mwana ya mama mysi,2,2,6,23,2,0,0
+ekomi na ngonga moko boye ekomi kosenga kosala maponomi,ekomi na ngonga moko boye ekomi kosenga kosala maponomi,0,0,9,47,0,0,0
+azwaki nanu tango ya koyanola te oyɔ ya misato abwakeli ye azotala ye na kati ya miso,azwaki nanu tango ko yanola te oyɔ ya misato abwateli ye azotala ye na kati ya miso,3,3,17,69,3,0,0
+mayεlε te nawangana,mayεlε te nawangana,0,0,3,17,0,0,0
+ata epumbuki nanu te obeti libaku mutu ekei kotutana na kiti pe okufi,ata pombuki nanu te obeti libaku mɔtɔ akeyi kokotana na kiti pe okufi,4,8,13,57,4,0,0
+asalisi mikanda nyɔnso na ndenge esengeli,asalisi mikanda nyɔnso na ndenge esengeli,0,0,6,36,0,0,0
+makambo tomilukelaka,makambo tomilukelaka,0,0,2,19,0,0,0
+tshotsho kodiongo ye wana akoti na ekala moko na barumbu ezalaki na esika balabala kasayi ekatana na kitega,tshotsho kodiongoye wana akoti na ekala moko na barumbu ezalaki na esika balabala kasai ekatana na kitega,3,1,18,90,2,0,1
+ata ndεlε bokopakata,ata mbεlε bokopakaka,2,3,3,18,2,0,0
+tata moko azalaki na pawu na ye azalaki kokɛndɛ kotimola nzela po mayi ya mvula eleka ayɔki neti bafingi mama na ye,tata moko azalaki na pawu na ye azalaki kokɛndɛ kotimola nzela po mayi ya mvula eleka ayoki neti bafingi mama na ye,1,1,22,94,1,0,0
+lεlɔ nde tokomi baprêtre,lεlɔ nde tokomi bapretre,1,1,4,21,1,0,0
+akei kozinda kuna,akeyi kozinda kuna,1,1,3,15,1,0,0
+nazwa momeseno ya koyokaka makelele ya kolelaka na yɔ,nazwa momeseno ya koyokaka makelele ya koleka na yɔ,1,2,9,45,1,0,0
+bato babaluki babandi kotala mama oyɔ azali koloba na koganga,bato babaluki babandi kotala mama oyɔ azali koloba na koganga,0,0,10,52,0,0,0
+mbεlε ezali kongala,mbele ezali kongala,1,2,3,17,1,0,0
+ngonga babatelinzoto bapekisa azwi bambata makɔfi bisambeti,ngongabaatali nzoto bapekisa azwi bambata makofi lisambete,4,5,7,53,4,0,0
+tshotsho kodiongo akei kobelela po bampɔna ye na barumbu,totio kodiongo akeyi kobetela mpo bapɔna ye na barumbu,5,8,9,48,5,0,0
+po otɔnga hotel awa yango nde okanisi que okomi mwana ya barumbu,po otonga otel awa yango nde okanisi ke okomi mwana ya balumbu,4,5,12,53,4,0,0
+oyebi te ke banda kala liboso kutu mindεlε baya baluba bazalaki kokɛndɛ koteka bilɔkɔ epayi ya bakongo pe bakongo bazalaki kokɛndɛ koteka bilɔkɔ na kasayi,oyebi te ke banda kala liboso kutu mindεlε baya baluba bazalaki kokɛndɛ koteka bilɔkɔ epayi ya bakongo pe bakongo bazalaki kokɛndɛ koteka bilɔkɔ na kasani,1,1,25,130,1,0,0
+yɔ olingi natanga yango wapi pere na biso ye moko liboso aya kofanda na kinshasa azalaki kokɛndɛ koteka bilɔkɔ epayi ya bakongo mbala na mbala,yɔ olingi natanga yango wapi per na biso ye moko liboso aya kofanda na kinshasa azalaki kokɛndɛ koteka bilɔkɔ epayi ya bakongo mbala na mbala,1,1,25,118,1,0,0
+aboyi kokɛndɛ poto,aboyi kokɛndɛ poto,0,0,3,16,0,0,0
+lokola ayebiki koloba kikongo ezalaki koleka na yango,lokola ayebiki koloba ki kango ezalaki koleka nayango,4,1,8,46,2,1,1
+sikoyɔ ozoya po tompɔna yɔ,sikoyɔ zwo ay a poto po na yɔ,5,5,5,22,2,3,0
+oboyi kolandela makambo na bozindo,oboyi kolandela makambo na bozindo,0,0,5,30,0,0,0
+idee ekoya ndenge nini okɛndɛ koluka mutu ya lumumba epayi ya mutu ya kasavubu,idet ekoya ndenge nini okɛndɛ koluka mɔtɔ ya lomumba epayi na mɔtɔ ya kasavubu,5,7,14,65,5,0,0
+villa ya dolar nkoto nkama misato,villa ya dolar nkoto nkama misato,0,0,6,28,0,0,0
+bavedette lokola mohamed ali geoges forman james brown bango nyɔnso baleka na balabala bokasa,pavetin te lokola mwamedale jonge formene jeomesebradne bango nyɔnso baleka na balabala bukasa,9,20,14,80,6,1,2
+mawa esunda pongi eyingela olongwa susi na ngai,mawa esunda pongi eyingela olongola soucis na ngai,2,5,8,40,2,0,0
+yɔka yɔ masolo ozalaka na yango,yoka yɔ masolo ozalaka na yango,1,1,6,26,1,0,0
+moko na bango abandi kobeta lisolo ya ekipi moko ya bale,moko na bango abandi kobeta lisolo ya lekipi moko ya bale,1,1,11,46,1,0,0
+baboya yɔ te yɔ nani,kaboya yɔ te yɔ nani,1,1,5,16,1,0,0
+tshotsho nde mɔtɔ ayaka na baninga na ye,tshotsho nde mɔtɔ ayaka na baninga na ye,0,0,8,33,0,0,0
+bozali na raison kasi nasengi bino bolimbisi,bozali na raison kasi nasengi bino bolimbisi,0,0,7,38,0,0,0
+yɔ na mwasi na yɔ na bǎna na yɔ bolie yango,yɔ na mwasi na yɔ na bala na yɔ boli yango,2,3,11,33,2,0,0
+nzoto ya mwasi ekomi eyinelo nakosoli te,nzoto ya mwasi ekomi eyinelo nakosoli te,0,0,7,34,0,0,0
+babeti ya kin kutu bakomaki tii na ndelo ya kobeta na vita pe imana bikipi ya minene ya engumba kinshasa,babeti babeti ya kin kutu bakomaki tii na ndelo ya kobeta na vita pe eyimana bikipi ya minene ya engumba ya kinshasa,3,10,20,85,1,2,0
+kitooko elooko te,kitoko elɔkɔ te,2,4,3,15,2,0,0
+osombi mbala minei mbala minei ya gaillard ozodondwela biso na avenue bokasa oyɔ bokomisa liziba,osombe ka kofaquatre ya gayer ozobondoela biso na vene bokasa oyɔ bokomisa liziba,8,27,15,82,6,0,2
+ozwi mbɔngɔ ya bato nyɔnso omemi yango epayi na yɔ,ozwi mbɔngɔ ya bato nyɔnso meli yango epayi na yɔ,1,2,10,41,1,0,0
+botingameli kibokonzi po bokota boloko te,botingameliki bokonzi mpo bokota boloko te,3,1,6,36,3,0,0
+lokola azalaki na kotambola na lombango makasi motuka ebeti libaku ebaluki makalekale,lokola ezalaki na kotambola na lommbangu makasi motuka ebeti libaku ebaloki makalekale,3,4,12,74,3,0,0
+atekeli muji lopango yango na dolar nkoto nkama misato,ateki modi lopango yango na dolar nkoto nkama misato,2,4,9,46,2,0,0
+okanisi nakotikela yɔ bana na ngai,okanisi nakotikela yɔ bana na ngai,0,0,6,29,0,0,0
+mɔtɔ mosusu abakisi kɛndɛ na yɔ kostaffer na bana mayi na yɔ,tmɔtɔ mosusu abakisi eke naeno  kostafe na bana mayi na yɔ,5,10,12,49,4,0,1
+tina nasamba te,tina nasamba te,0,0,3,13,0,0,0
+alingaka kotala baemission ya français te,alingaka kotala baemession ya flrançais te,2,2,6,36,2,0,0
+mɔtɔ ya minei atelemi pe akomi koya esika tshotsho amitielaki kiti,mɔtɔ ya mbina atelemi pa komi koya esika tshotsho amitielaki kiti,3,4,11,56,3,0,0
+babosani mwana ya matete,babosani mwana ya mate te,2,0,4,21,1,1,0
+na libanda banzela ezali kaka ya kokufa,na libanda banzela ezali kaka ya kokufa,0,0,7,33,0,0,0
+lεlɔ barumbu ekoma na yango liziba ya bosɔtɔ ezanga mbisi,lεlɔ barumbu ekoma na yango liziba ya bosoto ezanga mbisi,1,2,10,48,1,0,0
+tozali bato yɔ ozali mɔtɔ te,tozali bato yɔ ozali mɔtɔ te,0,0,6,23,0,0,0
+oyɔ nalonaki nde nabuki,oyɔ nalonaki nde nabuki,0,0,4,20,0,0,0
+bayei komona ete azalaki kolobela mopao oyɔ azalaki na kati ya mercedes ya mwindu,baye komona ete azalaki kolobela moparo oyɔ azalaki na kati ya mesetesi ya mwindu,3,6,14,68,3,0,0
+mama auguy abaluki akobi nzela na ye,mama ogui abaluki akobi nzela na ye,1,3,7,30,1,0,0
+otosi yango opusani otosi yango te ebebeli yɔ,otosi yango epusani otosi yango te ebebeli yɔ,1,1,8,38,1,0,0
+ameli soyi,amɛli nsoyi,2,2,2,9,2,0,0
+yango nde lopango muji asombaki na mbɔngɔ tshotsho ayibaki,yango nde lopango mudi asombaki na mbɔngɔ thoto ayibiki,3,5,9,50,3,0,0
+liboso motuka ekoma miso ya jeannine ezotala ndenge tata oyɔ akiti na motuka,liboso motuka ekoma miso ya jeannine ezotala ndenge tata oyɔ akiti na motuka,0,0,13,64,0,0,0
+okoexpliquer ngai nini,okoexpliquer ngai nini,0,0,3,20,0,0,0
+pe etekami,pe etekamaki,1,2,2,9,1,0,0
+azalaka na ye pe na baninga te to bandeko oyɔ bayaka kotala ye,azalaka na ye pe na baninga te to bandeko oyɔ bayaka kotala ye,0,0,13,50,0,0,0
+napesa yɔ mbote molimo esemi nasuki awa,napesa yɔ mbote molimo semi nasuki awa,1,1,7,33,1,0,0
+mokolo bakundaki yɔ nazalaki na kisasa nawelaki bibonga,mokolo bakundaki yɔ nazalaki na kinshasa nawelelaki bibonga,2,4,8,48,2,0,0
+bato bazalaki kokɛngɛla ye basutuka,malεmbε malεmbε bato bazalaki koleka na balabala bayoki makelele,7,35,5,31,3,4,0
+bakozwa yɔ na kilo tein,bakozwa yɔ na kilo teme,1,2,5,19,1,0,0
+litanga ya kwiti oyɔ etikalaki ebimi,litanga ya kutu oyɔ etikali ebimi,2,5,6,31,2,0,0
+nakoseka na esεngɔ mai ya miso ekokawuka,nakoseka na esεngɔ mayi ya miso ekokawuka,1,1,7,34,1,0,0
+bana na yɔ bazalaka lisusu na ngai te,bana na yɔ bazalaka lisusu na ngai te,0,0,8,30,0,0,0
+apumbuki yango na nsima atelemi,apumbuki yango na nsima etelemi,1,1,5,27,1,0,0
+akomi kaka koloba lisolo na litoyi ya makangu na ye oyɔ babimaki na ye,akomi kaka koloba lisolo na litoya makango na ye oyɔ babimaki na ye,3,3,14,57,2,0,1
+nazobenga nani,nazobenga nani,0,0,2,13,0,0,0
+bokosilisango,bokosilisa ngao,2,1,1,13,1,1,0
+muji ameseni pe na ndako ya mbεlε na mbala moko,muji amesani pe na ndako ya mbεle na mbala moko,2,2,10,38,2,0,0
+bango nyɔnso bazalaka lingomba moko ya politiki ezalaki lingomhba ya mokonzi ya mboka,bango nyɔnso bazalaka lingomba moko ya politike ezalaki lingomba ya mokonzi ya mboka,2,2,13,73,2,0,0
+nzambe asi asala akela mokili na mikolo motoba na mokolo ya sambo apemaka,zambe asinzala akela mokili na mikolo motoba na mokolo ya sambo apemaka,3,3,13,61,2,0,1
+tozalaki kobetana po na kolakisa makasi,tozalaki kobetana mpo na kolakisa makasi,1,1,6,34,1,0,0
+tshotsho kodiongo akamwe,tshotsho kodiongwaka mwena po,3,5,3,22,2,1,0
+bazalaki soki bato zomi kasi milangi kaka misato ya masanga pe esi esilaki na yango,bazalaki soki bato zomi kasi milangi kaka misato ya masanga pe esi esilaki na yango,0,0,15,69,0,0,0
+tango bato ya misala bakei muji atikali ye moko atali ndaku,ntango bato ya misala bakeyi muji atikali ye moko atali ndako,3,3,11,49,3,0,0
+nyɔnso wana ezosalama tshotsho kodiongo pe azoyeba te,nyɔnso wana ezosalama tshotso kodiongo pe azoyeba te,1,1,8,46,1,0,0
+bato mitano balali bibembe,bato mitano balali bibembe,0,0,4,23,0,0,0
+yɔ na ngai lisolo ezalaka lisusu te,yɔ na ngai lisolo ezalaka lisusu te,0,0,7,29,0,0,0
+etumba oyɔ okɛndɛki kobunda lεlɔ esilisi mboka mobimba,etumba oyɔ ekɛndɛki kobunda lεlɔ esilisi mboka mobimba,1,1,8,47,1,0,0
+ata pe ozali mwana barumbu osala nini,ata pe ozali mwana bayungu osala nini,1,3,7,31,1,0,0
+muji mwananyoka mapango na ye ya sika asombaki na bacommissionnaire misusu,muji mwananyoka mapango na ye ya sika asombaki na bacomisionnaire misusu,1,2,11,64,1,0,0
+atikali kuna elongi na kitalatala tango molayi mpenza,atikali kuna elongi na kitalatala tango molayi mpenza,0,0,8,46,0,0,0
+bakoma kobenga yɔ bon client,bakoma kobenga yɔ bonplient,2,1,5,24,1,0,1
+atikalaki kaka na lopango wana,atikalaki kaka na lopango wana,0,0,5,26,0,0,0
+mwa mayi moko ezalaki wana,mwa mayi moko ezalaki wana,0,0,5,22,0,0,0
+makanisi ezongi bango nsima,makanisi ezongi bango nsima,0,0,4,24,0,0,0
+ata nsɔni te obengi ngai mwasi na yɔ,ata nsɔni te obengi ngai mwasi na yɔ,0,0,8,29,0,0,0
+bana basili na kokufa ngai matoyi lokola ezosala te,bana basili nakokufa ngai matoyi lokola ezosala te,2,0,9,43,1,0,1
+mingala mike mike pe epayi basi oyɔ ya mpεmbεni bango basengaka na ndenge ya muke te,lingala mike mike pe epayi basi oyɔ ya mpεmbεni bango basengaka na ndenge ya moke te,2,2,16,69,2,0,0
+ekomeli ngai boni,ekomɛelinga boni,2,2,3,15,1,0,1
+mpiaka na yɔ mabe ee,tiaka na yɔ mabe ya,2,4,5,16,2,0,0
+lεlɔ tosi tokoma soki na mokolo ya zomi yɔ ozozela nzambe asala,yɔ toi tokomo na mokolo zomi yɔ ozozela nzambe asala,5,10,12,52,3,0,2
+kasi barumbu basakanaka na yango te,kasi barumbu basakanaka na yango te,0,0,6,30,0,0,0
+akopesela mokonzi na ndenge moko ete moflato ya renard liboso ya aigle kutu mokε,akopesela mokonzi na ndenge mokoe te moflatre ya remal liboso ya ege kutu mokε,5,8,14,67,5,0,0
+na miniti mokε motuka etikali se mabende,na minuti mokε motuka etikali se mabende,1,1,7,34,1,0,0
+amesana mwa mbɔngɔ ya boki bato babeleli kombo na ye,amesana mwa mbɔngɔ ya boke bato babelteli kombo na ye,2,2,10,43,2,0,0
+pema ya kanda emati na tolo,mpema ya nkanda emati na tolo,2,2,6,22,2,0,0
+bopoti mmbangu boyei kinshasa bokomi bakonzi,bopoti mbango boye ya kinshasa bokomi bakonzi,3,4,6,39,2,1,0
+tshotsho asepeli,thoto asepeli,1,3,2,15,1,0,0
+bakutani pe na bandeko misusu ya kilo lokola bango,bakutani pe na bandeko misusu ya kilo lokola bango,0,0,9,42,0,0,0
+na nsima ya sanza misato mwananyoka memoire ezosala kaka eyemba mopao mokonzi,na nsima ya sanza misato mwananyoka me mor ezosala kaka eyemba mopango mokonzi,3,4,12,66,2,1,0
+oloba ozali mwana ya barumbu ndaku na biso ezalaki wapi,koloba ozali mwana ya balunmgu ndako na biso ezalaki wa pe,5,6,10,46,4,1,0
+bilili ya bomoyi na ye etamboli liboso na ye lokola defile na triomphal,bilini ya bomoi na ye etamboli liboso na ye lokola defile na trinonfale,3,7,13,59,3,0,0
+nakozala na mboka ya bawei molimo epai ya nzambe,nakozala na mboka ya bawei molimo epayi ya nzambe,1,1,9,40,1,0,0
+abandi masolo ya politiki ndenge azokana kobongisa barumbu soki baponi ye,abandi masolo ya politiki ndenge azoka na kobongisa bazo mo soki bapɔni ye,5,5,11,63,3,2,0
+naluki na bikotakota babenga ngai honorable ye oyɔ abongi na lokumu liwa na yɔ nayokaki yango nabosanaki yango,nalukaki na bikota kota babenga ngai onorable ye oyɔ abongi na lokumu liwa na yɔ nayokaki yango nabosanaki yango,4,3,18,93,3,1,0
+wana azozela kobelela ye mopao oleki bango,wana zozela babelela ye mopao oleki bango,2,3,7,36,2,0,0
+tshotsho kodiongo apusani mpεmbεni na bango,thotsho ko diongo apusani mpεmbεni na bango,3,1,6,38,2,1,0
+motema libanga nazwi wapi,motema libanga nazwi wapi,0,0,4,22,0,0,0
+oyɔ ya mobali akɛndɛ luanda,oyɔ ya mobali akɛndɛ lowanda,1,2,5,23,1,0,0
+ebakata na villa,ebakata na villa,0,0,3,14,0,0,0
+mpiaka likolo ya  mpiaka ateka bilɔkɔ nyɔnso azalaka na yango,piaka likolo ya mpiaka ateka bilɔkɔ nyɔnso azalaka na yango,1,1,10,51,1,0,0
+naluki butu na moyi babenga ngai excellence ye oyɔ aleki na malonga,naluki butu na moyi babenga ngai excellence ye oyɔ aleki na malonga,0,0,12,56,0,0,0
+bisika ya kofanda ezali ebele,misika a kofanda ezali ebele,2,2,5,25,2,0,0
+azongeli kaka commissionnaire oyɔ amemelaki ye masolo yango,azongeli kaka komessonare oyɔ amemelaki ye masolo yango,1,6,8,52,1,0,0
+natelema nayamba yɔ,natelema nayamba yɔ,0,0,3,17,0,0,0
+ezali ekala,ezali ekala,0,0,2,10,0,0,0
+tika ngai nafanda kimya,tika ngai nafanda kimia,1,1,4,20,1,0,0
+nini ezosala yɔ ezali kindoki to ezali kibolole,nini azosala yɔ ezali kindoki toy ezali kibolole,2,2,8,40,2,0,0
+kuna asombi pe lopango afandi masolo pe ebongwani,kuna asombi mpe lopango afandi masolo mpe ebongwani,2,2,8,42,2,0,0
+ayɔki na litoyi mongongo oyɔ elalisaka ngubu na ebale   ngai mwasi ya ministre mobimba nafutelaka,ayɔki na litoyi mongongo oyɔ elalisaka ngobu na ebale ngai mwasi ya minuste mobimba nafutelaka,2,3,15,81,2,0,0
+uta mokolo wana tshotsho alobaka lisusu te likambo ya barumbu,kuta mokolo wana tshotsho alobaka lisusu te likambo ya barumbu,1,1,10,52,1,0,0
+ekipi yango ezalaki  kosangisa bana ya zone ya kinshasa pe zone ya barumbu,ekipi yango ezalaki kosangisa bana ya zomi ya kinshasa pe zome na barumbu,3,4,13,61,3,0,0
+muji atie yango na kombo na ye moko,mudi atie yango na nkombo na ye moko,2,2,8,28,2,0,0
+afandi mwa kimya,afandi mwa kimya,0,0,3,14,0,0,0
+mwa mbɔngɔ ya  bapolo mwa danki ekosopa mabele na avenue bokasa djalεlɔ ekoyembama ete azali nsoso ya mboka,mwa mbɔngɔ ya bapolo mwandaki ekosopa mabele na avenier mbokasa djalelo ekoyembama ete azali soso ya mboka,6,8,18,89,5,0,1
+masumu ya bato nyɔnso oyɔ bakamba mboka pe bakomisa barumbu esika barumbu ekomi afuti masumu na bango,masumu ya bato nyɔnso oyɔ bakamba mboka pe bakomisa balumbu esika balumbu ekomi afuti masumu na bango,2,2,17,85,2,0,0
+ezala commune ezala zone ezali maloba ya français,ezala commune ezala zome ezalaki maloba ya français,2,3,8,42,2,0,0
+moyimoyi mwananyoka aluki bacommissionnaire,moyi moyi mwananyoka aluki bacommisionnaiure,3,2,4,40,2,1,0
+lokola pe kinshasa ekoma mbindo esengeli tango nyɔnso kotala esika ozali kotiya likolo,lokola pe kinshasa ekoma mbindo esengeli tango nyɔnso kotala esika ozali kotiya likolo,0,0,13,74,0,0,0
+kihonorable nalulaki bapesa ngai na ndikila kiexcellence natekelaki mboka balongoli mafuta nzoyi,kionorable nalukaki bapesi ngai na ndikila excelence natekelaki mboka balongoli mafuta nzoyi,4,6,12,85,4,0,0
+bakozala kofuta mbɔngɔ na compte na ye na banki,bakozala kofuta mbɔngɔ na cote na ye ya bannke,3,5,9,39,3,0,0
+makanisi ezali kotambola ye mmbangu mmbangu,makanisi ezali kotambola ye mbangumbango,2,3,6,38,1,0,1
+soki etangama okokufa na pepo ata osali ndenge nini sukasuka okomata kaka na pepo,soki etangama okokufa na pepo ata osali ndenge nini sukasuka okomata kaka na pepo,0,0,14,68,0,0,0
+na ma campagne esi ezalaki na kolo masolo oyɔ esi akanaki kotiya libaya na ma campagne,na ma campagne esi ezalaki na kolo masolo oyɔ esi akalaki kotiya libaya na ma campagne,1,1,16,71,1,0,0
+muji mwananyoka apesa tshotsho nyɔnso oyɔ nzoto na ye bo mobali ekokaki kozala na posa ya kozwa,mudji mwananyoka apesa toto nyɔnso oyɔ nzoto na ye bomobali ekokaki kozala na mposa ya kozwa,5,6,17,79,4,0,1
+bakomi kokanisa ndenge bazalaki kokɛndɛ kopotana na lisano ya ndembo na bana ya camp otraco,bakomi kokanisa ndenge bazalaki kokɛndɛ kopotana na lisalo ya ndembo na bana ya can etraco,3,4,15,77,3,0,0
+na ndenge ya solo ayɔki mpenza ete soki akeyi kosuba te akosuba na bilamba,tna ndenge ya solo ayoki mpenza ete soki akeyi kosoba te akosoba na bilamba,4,4,14,61,4,0,0
+bato ya ntembe bazali,bato ya ntembe bazali,0,0,4,18,0,0,0
+mpiaka ekoti yɔ ozongi pprd ozwi mwa poste otongi ndaku ya etage,pieko ekoti yɔ ozongi pe perde ozwi mwa poste otongi ndako etage,5,9,12,53,3,1,1
+po pere na biso azalaki mpenza mutu ya lumumba deux fois te,po pere na biso azalaki mpenza mutu ya lomumba djefo te,3,6,12,48,2,0,1
+ata kokomba oyɔ ya kokomba bozoyiba tii mbɔngɔ ya  kombo,ata kokombo ya kokoma bozoyi bati mbɔngɔ kombo,6,7,10,46,4,0,2
+ezalaki na bamibu diznef cent katre vin na tango ya mobutu,ezalaki na bamibo dimecans kratrevens na tango ya mobutu,5,9,11,48,3,0,2
+esengi kaka yɔ otia libaya kuna,esengi kaka yɔ otiya libaya kuna,1,1,6,26,1,0,0
+akoti na kikuku amisaleli mwa maki mwa ti ya motane ezanga miliki mwa lipa ye wana alei na kimya nyɔnso,akoti na kituku amisaleli mwa maki mwati ya motane ezanga miliki mwa lipa ye wana aleyi na kimia nyɔnso,5,3,20,84,4,0,1
+mokolo mwananyoka apesaki bato basombaki lopango fungola tshotsho kodiongo azalaki na mission ya mosala na lubumbashi,mokolo mwananyoka apesanaki bato basombaki lopango fungola tshotsho kodiongo azalaki na mesion ya mosala na lobumbasi,3,6,16,102,3,0,0
+yɔ ozomona te ke mboka eza ya kokufa,yɔ ozo mwana tele mboka za akokufa,6,5,8,29,5,0,1
+basololi tii baye kokoma na eyano,basololi tii baye kokoma na eyano,0,0,6,28,0,0,0
+mokolo moko na ekala moko na gombe bazalaki elongo na baninga na ye ya politiki po na komɛla masanga pe kolekisa mwa tango,mokolo moko na ekala moko na gombe bazalaki elongo na baninga na ye ya politiki po na komɛla masanga pe kolekisa mwa tango,0,0,23,100,0,0,0
+makambo nini ozoloba,makambu a nini ozoloba,2,2,3,18,1,1,0
+tshotsho ayanoli na se ya motema  ebongo na kikwit soki balabala ezali te ekosala nini,tshotso ayanoli na se ya motema ebongo na kikuiti soki balabala ezali te ekosala nini,2,3,15,71,2,0,0
+sikoyɔ ekomi lisusu vote ozoya kwelekwele na mbɔngɔ na biso oyibaki osombela biso masanga,sikoykomi lisusu voti ozolya kwlia kwala na mbɔngɔ na biso oyibaki osombela biso masanga,6,9,14,76,6,0,0
+bato bayei ebele esika yango mɔtɔ akokipe kosunga bango azali te,bato bayei ebele esika yango mɔtɔ akoki pe kosunga bango ezali te,3,1,11,54,2,1,0
+azali mɔtɔ ya lingomba ya tata mokonzi,azali mɔtɔ ya lingomba ya tata mokonzi,0,0,7,32,0,0,0
+basombaka nini na barumbu,basombaka nyini na balumbu,2,2,4,22,2,0,0
+mabanga ezali kolanda bango,mabanga ezali kolanda bango,0,0,4,24,0,0,0
+aye kokoma na ndako yango na poso oyɔ elandi,aye kokoma na ndako yango na poso oyɔ elandi,0,0,9,36,0,0,0
+balabala bokasa oyɔ,balabala bokase oyɔ,1,1,3,17,1,0,0
+basi oyɔ olalaki na makasi bazali basi lokola ngai,basi oyɔ olalaki na makasi bazalaki basi lokola ngai,1,2,9,42,1,0,0
+bozalaka boye bosi bokataki moyeke kuna soki bana kongo basili te bino pe bokolεmba te,bozalaka boye bosi bokati moyeke kuna soki bana congo basili te bino pe bokolenga te,3,6,15,72,3,0,0
+excellence abakisi mbɔngɔ ndaku ezongi ya sika,excellance abakisi mbɔngɔ ndauko ekomi ya sika,3,6,7,40,3,0,0
+kota na mutuka tokosolola na malεmbε,kota na motuka tokosolola na malεmbε,1,1,6,31,1,0,0
+na etelemelo ya bisi ya kingasani ya suka ezalaka na bato ebele,na etelemelo ya bisi ya kingasani ya suka ezalaka na bato ebele,0,0,12,52,0,0,0
+tshotsho kodiongo ayɔki neti pepe kalle abimi na nkunda pe azali kozomela ye,moshotsho ko diongo ayoki netibo pe kale abimi na kunda pe azali kozomɛla ye,9,8,13,64,8,1,0
+dongolomiso basilisi bato na koboma mpinzoli te,bongolo minso basilisi bato na koboma pinzoli te,3,3,7,41,2,1,0
+tshotsho kodiongo abetami,tsho tsho kodiongo abetami,2,0,3,23,1,1,0
+tata oyɔ akomi kosala neti asundola vie na ye ya kala ndako na ye aya kotingama awa,tata oyɔ akomi kosala neti asundola vi na ye ya kala ndako na ye aya kotingama awa,1,1,17,67,1,0,0
+ye moko amiyanoli  esala nini,ye moko amiyanoli esala nini,0,0,5,24,0,0,0
+nakokɛndɛ na ye wapi soki balongoli ye,nakokɛndɛ na yɔ wapi soki balongoli ye,1,1,7,32,1,0,0
+elɔkɔ nini etindaki ngai naloba ke nazali mwana ya barumbu,elɔkɔ nini etindaki ngai naloba que nazali mwana ya barumbu,1,2,10,49,1,0,0
+motuka moko ya mwindu bitalatala ya molili,motuka moko ya moindu bitala tana ya molinde,4,5,7,36,3,1,0
+wana ozali komikosa nzambe azosala te,wana ozali komikosa zamba azosala te,1,2,6,32,1,0,0
+aseki abeti mabɔkɔ amilobeli   nasombi villa na ma campagne,aseki abeti mabɔkɔ amilobeli nasombi vila na ma campagne,1,1,9,49,1,0,0
+mokolo mosusu awutaki kosukola,mokolo mosusu awutaki kosukola,0,0,4,27,0,0,0
+kombo na yango ezalaki babeti ya kin,kombo na yango ezalaki babeti ya kin,0,0,7,30,0,0,0
+mibali oyɔ bobomaki te nsɔni elata bango po na oyɔ ya nsɔmɔ bosalaki na basi pe bandeko na bango ya basi,mibali oyɔ bobomaki te soni elata bango po na oyɔ ya nsɔmɔ bosalaki na basi pe bandeko na bango ya basi,1,2,21,84,1,0,0
+muji alongwe na badalungwa akoti na ndako na ye moko na ma campagne,muji alongwe na bandalumbwa akoti na ndako na ye moko na ma campagne,1,3,13,55,1,0,0
+botamboli zamba-zamba botimola koltani boteki yango mangondo po basalela na yango basmartfone,botamboli zamba azamba botimboli coltane boteki yango mangondo po bosalela na yango pasmantfolle,6,10,12,82,5,1,0
+azotala masolo ya politiki ya france,azotala masolo ya bolitique ya france,1,4,6,31,1,0,0
+motema emesana na komonaka ebele ya pasi eyelaka yɔ,motema emesana na komonaka ebele ya pasi eyelaka yɔ,0,0,9,43,0,0,0
+zonga na ebele ya mosolo na yɔ osala elambo na misuni ya bato oliaka,zonga na ebele ya masolo na yɔ osala elambo na misuni ya bato liaka,2,2,14,55,2,0,0
+olobi ozali mwana ya barumbu osilisi okeyi kaka bongo,olobi ozali mwana ya barumbu osilisi okeyi kaka bongo,0,0,9,45,0,0,0
+bato mosusu pe bakoma koya koluka ye wana po asalisa bango na bampasi na bango,bato mosusu pe bakoma koya koluka ye wana po asalisa bango na bapasi na bango,1,1,15,64,1,0,0
+zela nanu,zela mani,1,2,2,8,1,0,0
+sanza misato ya preavis po abima na ndako,sanza misato ya prezavie po abima na ndako,1,2,8,34,1,0,0
+obosani ete ozali na katikati ya fulu ya kinshasa,obosani ete azali na katikati ya fulu ya kinshasa,1,1,9,41,1,0,0
+akoma na ye kaka mɔtɔ ya mabanga,akoma na ye kaka mɔtɔ ya mabanga,0,0,7,26,0,0,0
+ayebelaki koloba kikongo wapi ye muluba awutaki kasayi,ayebelaki koloba kikongo wapi ye moluba awutaki kasani,2,2,8,47,2,0,0
+bayaka kotala barumbu,bayaka kotala balumbu,1,1,3,19,1,0,0
+atali oyɔ azalaki mwa mosika pe amatisi mwa mongongo po ezipa makelele ya mindulε,atali oyɔ azalaki mwa mosika pe amatisi mwa mongongo po ezipa makelele ya minduli,1,1,14,68,1,0,0
+kasi na lingala commune ezali ntaka,kasi na lingala commune ezali ntaka,0,0,6,30,0,0,0
+ngai nazali mwana na bino ya barumbu,ngai nazali mwana na bino ya barumbu,0,0,7,30,0,0,0
+tshotsho akitisi kitalatala oyɔ ya ngambo ye afandaki,tshotsho akitisi kita na tala oyɔ ya ngambo ye afandaki,3,1,8,46,1,2,0
+lokuta na lofundu batata na bamama mibimba,lokuta na lokundu batata na bamama mibimba,1,1,7,36,1,0,0
+na tango wana tshotsho amoni mipende ya bolεngε ye pe amiyɔki bolεngε,na ntango wana tshotho amoni mipe nde ya bolenge ye pe akomi bolenge,7,11,12,58,6,1,0
+bozosilisa batata batu bambɔgɔ na bango,bozosilisa batata bato bambɔgɔ na bango,1,1,6,34,1,0,0
+kanisa kaka ke muluba mutu ya lumumba akeyi kobatama na kimbanseke epayi ya bakongo batu ya kasavubu,kanisa kaka kue moluba mɔtɔ ya lomumba akeyi kobatama na kimbanzake epayi ya bakongo bato ya kasavuvu,7,9,17,84,7,0,0
+bana oyɔ obomaki bazali lokola bana na ngai,bana oyɔ obomaki bazalaki lokola bana na ngai,1,2,8,36,1,0,0
+yɔ okolobela ngai nini,yɔ okolobela ngai nini,0,0,4,19,0,0,0
+wana pe ye mokonzi yango zoba lokola soki ndenge nini asepeli,wana pe mokonzi yango zoba lokola soki ndenge nini asepeli,1,2,11,51,0,0,1
+bokutani po mokonzi na mokonzi azoluka kwanga po na mboka na ye,bokutani po mokonzi na mokonzi yazoluka kwanga mpo na mboka na ye,2,2,12,52,2,0,0
+bato na ye basali makasi babendi ye na se ya lobeto azalaki kobetama bakotisi ye na motuka pe batamboli,bato na ye basali makasi babendi ye na se ya lobeto azalaki kobetama bakotisi ye na motuka pe batamboli,0,0,19,85,0,0,0
+asala nyɔnso akota na guvernema oyɔ ya joseph esimba te,asala nyɔnso akota na gouvernemant oyɔ ya jose esimba te,2,5,10,46,2,0,0
+akoti na epemelo amoni mwana ya mosala asilaki kopangusa ndako,akoti na epemelo amoni mwana ya mosala asilaki kopangwisa ndako,1,2,10,53,1,0,0
+ndenge koffi olomide ayemba  elεngi efandaka epayi na biso,ndenge kofi holo mide ayemba elengi yefandaka epayi na biso,5,4,9,49,4,1,0

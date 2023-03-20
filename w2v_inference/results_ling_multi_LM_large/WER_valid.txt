@@ -1,0 +1,3 @@
+WER_Valid multilingual checkpoint + LM_large
+WER:  19.341441708691782
+CER:  6.318731393158758
