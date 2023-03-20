@@ -7,4 +7,4 @@
 [link](https://github.com/AI4Bharat/indic-wav2vec2/tree/main/data_prep_scripts/pret_scripts)
 
 ### For Downloading and Processing Finetuning data 
-[link](https://github.com/AI4Bharat/indic-wav2vec2/tree/main/data_prep_scripts/ft_scripts)
+[link](https://github.com/ussenuk/CdWav2Vec/tree/master/data_prep_scripts/ft_scripts)
