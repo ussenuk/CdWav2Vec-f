@@ -1,5 +1,5 @@
 ### Dataset processing and Manifest creation
-1. Make a new directory and name it (say swc)
+1. Make a new directory and name it (say dataset)
 2. Download and extract the data inside mucs. The data should be extracted in such a way that each folder inside should contain data for a particular language i.e in each language specific folder, it should contain train, valid and test folder and within them the audio + transcript.txt
 Note that the transcript contain entries 
 ```
@@ -38,7 +38,7 @@ The sample structure is given below.
 
 3. After bringing the data in given format, run the following command to create manifest
 
-- ```bash m_process.sh <path/to/the/root/folder/(mucs)>```
+- ```bash m_process.sh <path/to/the/root/folder/(dataset)>```
 
 The final step would result in creation manifest folder in each language specific folder which can the be used with fairseq for finetuning.
 
