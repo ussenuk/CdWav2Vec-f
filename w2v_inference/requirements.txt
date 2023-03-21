@@ -15,3 +15,5 @@ tensorboardX==2.1
 wandb 
 jiwer 
 jupyterlab
+protobuf==3.19.0
+pydub
