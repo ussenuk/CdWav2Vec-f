@@ -199,7 +199,7 @@ Gumaya(or Lingala Read Speech Corpus)
 ```
   - Creating the manifest
 ```
-bash m_process.sh <path/to/the/root/folder/(mucs)>
+bash m_process.sh <path/to/the/root/folder/(dataset)>
 ```
 The would result in creation of manifest folders in each language specific folder which can the be used with fairseq for finetuning.
 #### fine-tuning procedure and code
@@ -229,7 +229,7 @@ lm_data folder should contain languages specific folder, each folder having a le
 
 Run lm-training: ```bash scripts/train_lm.sh <lm directory path> <lang>```
 
-Ouput will be generate at: "<lm directory path>/<lang>".
+Ouput will be generate at: <lm directory path>/<lang>.
 
 ### Evaluation
   #### Evaluation using fairseq (infer.py)
@@ -241,8 +241,10 @@ python3 w2v_inference/infer/infer.py ${manifest_path} --task audio_finetuning \
   ```
   #### Evaluating a single file (jupyter notebook)
   Run the following notebooks
-  infer_single_file_on_lingala_models.ipynb
-  infer_single_file_on_swc_models.ipynb
+  
+  - infer_single_file_on_lingala_models.ipynb
+  
+  - infer_single_file_on_swc_models.ipynb
   
 ### Credits
 ### Cite
