@@ -61,7 +61,9 @@ cd kenlm
 mkdir -p build && cd build
 cmake .. 
 make -j 16
-cd ../..
+cd ..
+export KENLM_ROOT=$PWD
+cd ..
 
 ```
 - Installing flashlight
