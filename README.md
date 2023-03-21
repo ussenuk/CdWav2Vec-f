@@ -55,6 +55,17 @@ pip install --editable ./
 ```
 - Installing KenLM
 ```
+git clone https://github.com/kpu/kenlm.git
+cd kenlm
+mkdir -p build && cd build
+cmake .. 
+make -j 16
+cd ../..
+
+```
+- Installing flashlight
+```
+
 
 ```
 ### Pretraining
