@@ -27,6 +27,13 @@ Our models are evaluated on two publicly accessible benchmarks, the Gamayun audi
 ## Pipeline
 ### Setting up the environment
 - Setting up pip environment
+```
+sudo apt-get install python3-pip
+sudo apt-get install python3-venv
+python3 -m venv [name of your environement]
+source [name of your envirnment]/bin/activate
+```
+
 - Installing / updating libraries
 ```
 sudo apt-get install liblzma-dev libbz2-dev libzstd-dev libsndfile1-dev libopenblas-dev libfftw3-dev libgflags-dev libgoogle-glog-dev
