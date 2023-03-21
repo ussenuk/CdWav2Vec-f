@@ -1,15 +1,5 @@
 # Running Evaluation
 
-## Setup
-
-### Using Docker Image (Recommended)
-
-> Create Docker image:  ```docker build -t ai4bharat/indicw2v .```  
-> Run Docker container: 
-```
-docker run --gpus all -it --rm -v <checkpoints_&_dataset_location>:/workspace ai4bharat/indicw2v
-```
-
 ### From Source
 
 > Install Linux dependencies: 
@@ -43,7 +33,7 @@ cd ..
 > Install Flashlight: the older version :flashlight==1.0.0
 
 ```
-git clone --branch 0.3 https://github.com/flashlight/flashlight.git
+git clone --branch v0.3.2 https://github.com/flashlight/flashlight.git
 cd flashlight/bindings/python
 export USE_MKL=0
 python setup.py install
@@ -52,27 +42,17 @@ cd ../../..
 
 ## Data Preparation
 - Make dataset and checkpoint directories ```mkdir datasets_test && mkdir checkpoints && mkdir checkpoints/language_model && mkdir checkpoints/acoustic_model```
-- Prepare test manifest folder using [fairseq](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec) and put the manifest folder inside ```datasets_test``` folder. The ```<data_folder_name>``` must be of the form, ```<lang>_*```, where ```lang``` can be hindi, bengali, gujarati, tamil, telugu, tamil, nepali, sinhala and odia.
-- Download/Train fine-tuning and language model checkpoints and put it inside ```checkpoints/acoustic_model``` and ```checkpoints/language_model``` folder respectively. Note: ```<am_folder_name>``` must contain checkpoints whose name should be of the form: ```<lang>_<am_folder_name>.pt``` and ```<lm_folder_name>``` must contain folder ```<lang>``` with ```lm.binary``` and ```lexicon.lst```.
+- Prepare test manifest folder using [fairseq](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec) and put the manifest folder inside ```datasets_test``` folder. The ```<data_folder_name>``` must be of the form, ```<lang>_*```, where ```lang``` can be lingala, Congolese Swahili.
+- Download/Train fine-tuning and language model checkpoints and put it inside ```model_output/acoustic_model``` and ```lm_data/<lm_folder_name>``` folder respectively. Note: ```<lm_folder_name>``` must contain folder ```<lang>``` with ```lm.binary``` and ```lexicon.lst```.
 
 ## Usage
 > Run inference: 
 ```
-cd scripts
-bash infer_auto.sh <cuda_device_no> <data_folder_name> <am_folder_name> <lm_folder_name> <lm_weight> <word_score> <beam_width>
+cd w2v_inference/infer
 ```
-> Scripts to be run to reproduce results from **paper** are provided [here](https://github.com/AI4Bharat/indic-wav2vec2/blob/main/w2v_inference/scripts/paper_results.sh).
+python3 infer.py
+```
 
-## Single File Inference
-```Usage: 
-   cd scripts
-   python sfi.py [--audio-file AUDIO_FILE] [--ft-model FT_MODEL] [--w2l-decoder {viterbi,kenlm}] [--lexicon LEXICON] [--kenlm-model KENLM_MODEL]
-              [--beam-threshold BEAM_THRESHOLD] [--beam-size-token BEAM_SIZE_TOKEN] [--beam BEAM] [--word-score WORD_SCORE] [--lm-weight LM_WEIGHT]
-              [--unk-weight UNK_WEIGHT] [--sil-weight SIL_WEIGHT] [--nbest NBEST]
-  ```
-  - AUDIO_FILE : Path to Audio clip (preferable in wav)
-  - FT_MODEL : Path to finetuned model
-  - {viterbi,kenlm} : Decoding choice, viterbi for greedy and kenlm for decoding with LM
 
 Note that for decoding with LM, the user must specify KENLM_MODEL (path to lm.binary) and LEXICON (path to lexicon.lst).
 Futher one can use the other set of arguements to change the parameters for LM decoding.
