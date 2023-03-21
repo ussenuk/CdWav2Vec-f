@@ -40,10 +40,12 @@ sudo apt-get install liblzma-dev libbz2-dev libzstd-dev libsndfile1-dev libopenb
 sudo apt install build-essential cmake libboost-system-dev libboost-thread-dev libboost-program-options-dev libboost-test-dev libeigen3-dev zlib1g-dev libbz2-dev liblzma-dev ffmpeg
 
 git clone https://github.com/ussenuk/CdWav2Vec.git
+cd CdWav2Vec
 
  pip install -r w2v_inference/requirements.txt
 
  pip install packaging soundfile swifter editdistance omegaconf
+ cd ..
 ```
 - Installing Fairseq
 ```
