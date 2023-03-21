@@ -42,10 +42,10 @@ sudo apt install build-essential cmake libboost-system-dev libboost-thread-dev l
 git clone https://github.com/ussenuk/CdWav2Vec.git
 cd CdWav2Vec
 
- pip install -r w2v_inference/requirements.txt
+pip install -r w2v_inference/requirements.txt
 
- pip install packaging soundfile swifter editdistance omegaconf
- cd ..
+pip install packaging soundfile swifter editdistance omegaconf
+cd ..
 ```
 - Installing Fairseq
 ```
