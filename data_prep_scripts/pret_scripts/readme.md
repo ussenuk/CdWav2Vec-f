@@ -10,12 +10,12 @@
 
 The above command will start download of all the youtube-url's for the language given, extract the audio (wav) and downsample it (to 16kHz) and name it as per the unique youtube-id. Subsequent to it, the data will be passed to VAD -> SNR -> Chunking pipeline automatically.
 
-### For Downloading and Processing NoA Data
+### For Downloading and Processing Radio Archives Data
 > Required libraries ```ffmpeg, tqdm```
-1. Download the NoA from the publicly availiable links
+1. Download the RA from the publicly availiable links
 2. Put the data in language specific folders
-3. Run ```bash normalize_sr.sh <path/to/root/of/NoA>``` to normalize the SR and number of channels
-4. Run ```python vad.py <path/to/root/of/NoA> <path/to/refined/data/storage> language-specific-foldername ```
+3. Run ```bash normalize_sr.sh <path/to/root/of/RA>``` to normalize the SR and number of channels
+4. Run ```python vad.py <path/to/root/of/RA> <path/to/refined/data/storage> language-specific-foldername ```
 5. Run ```python snr_filter.py <path/to/refined/data/storage> language-specific-foldername <path/to/store/rejected/files>```
 5. Run ```python chunking.py <path/to/refined/data/storage/languagespecificfolder>```
 
