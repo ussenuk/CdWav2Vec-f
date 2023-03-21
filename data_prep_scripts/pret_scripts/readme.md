@@ -10,7 +10,7 @@
 
 The above command will start download of all the youtube-url's for the language given, extract the audio (wav) and downsample it (to 16kHz) and name it as per the unique youtube-id. Subsequent to it, the data will be passed to VAD -> SNR -> Chunking pipeline automatically.
 
-### For Downloading and Processing Radio Archives Data
+### For Downloading and Processing Radio Archives (RA) Data
 > Required libraries ```ffmpeg, tqdm```
 1. Download the RA from the publicly availiable links
 2. Put the data in language specific folders
@@ -19,7 +19,7 @@ The above command will start download of all the youtube-url's for the language 
 5. Run ```python snr_filter.py <path/to/refined/data/storage> language-specific-foldername <path/to/store/rejected/files>```
 5. Run ```python chunking.py <path/to/refined/data/storage/languagespecificfolder>```
 
-- The <path/to/root/of/NoA> root path to NoA directory.
+- The <path/to/root/of/RA> root path to RA directory.
 
 ### For Processing Individual Directories
 1. Download the data using 
