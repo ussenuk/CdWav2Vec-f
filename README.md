@@ -202,9 +202,48 @@ Gumaya(or Lingala Read Speech Corpus)
 bash m_process.sh <path/to/the/root/folder/(mucs)>
 ```
 The would result in creation of manifest folders in each language specific folder which can the be used with fairseq for finetuning.
+#### fine-tuning procedure and code
+Following is the invocation script for finetuning CdWav2Vec base on a particular language
+```
+fairseq-hydra-train \
+  task.data=/path/to/finetune/manifest/directory/for/a/particular/language \
+  common.wandb_project=<wandb project name> \
+  model.w2v_path=/path/to/pretrained/model_base.pt \
+  common.log_interval=50 \
+  common.log_format=tqdm \
+  dataset.max_tokens=1000000 \
+  checkpoint.save_dir=/path/to/save/model/fine_tune_checkpoints \
+  +optimization.update_freq='[1]' \
+  distributed_training.distributed_world_size=<total GPUs> \
+  --config-dir /path/to/configs/directory \
+  --config-name ai4b_base"
+  ```
+Configs for both the models are provided in the finetune_configs directory
 
 ### Language Modelling (LM)
+We train 5-grams Statistical LM using KenLM library.
+#### Data preparation
+Create lm directory path : lm_data
+lm_data folder should contain languages specific folder, each folder having a lexicon and a lm_corpus
+#### Training details
+
+Run lm-training: ```bash scripts/train_lm.sh <lm directory path> <lang>```
+
+Ouput will be generate at: "<lm directory path>/<lang>".
+
 ### Evaluation
+  #### Evaluation using fairseq (infer.py)
+  ```
+python3 w2v_inference/infer/infer.py ${manifest_path} --task audio_finetuning \
+--nbest 1 --path ${checkpoint_path} --gen-subset ${valid|test} --results-path ${result_path} --w2l-decoder {viterbi | kenlm} \
+--lm-weight 0 --word-score 0 --sil-weight 0 --criterion ctc --labels ltr --max-tokens 5000000 \
+--post-process letter
+  ```
+  #### Evaluating a single file (jupyter notebook)
+  Run the following notebooks
+  infer_single_file_on_lingala_models.ipynb
+  infer_single_file_on_swc_models.ipynb
+  
 ### Credits
 ### Cite
 ### License
