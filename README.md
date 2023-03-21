@@ -44,7 +44,6 @@ cd CdWav2Vec
 
 pip install -r w2v_inference/requirements.txt
 
-pip install packaging soundfile swifter editdistance omegaconf
 cd ..
 ```
 - Installing Fairseq
