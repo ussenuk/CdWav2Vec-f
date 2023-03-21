@@ -48,11 +48,11 @@ cd ../../..
 ## Usage
 > Run inference: 
 ```
-cd w2v_inference/infer
+python3 w2v_inference/infer/infer.py ${manifest_path} --task audio_finetuning \
+--nbest 1 --path ${checkpoint_path} --gen-subset ${valid|test} --results-path ${result_path} --w2l-decoder {viterbi | kenlm} \
+--lm-weight 0 --word-score 0 --sil-weight 0 --criterion ctc --labels ltr --max-tokens 5000000 \
+--post-process letter
 ```
-python3 infer.py
-```
-
 
 Note that for decoding with LM, the user must specify KENLM_MODEL (path to lm.binary) and LEXICON (path to lexicon.lst).
 Futher one can use the other set of arguements to change the parameters for LM decoding.
