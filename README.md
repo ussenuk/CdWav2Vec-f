@@ -66,7 +66,11 @@ cd ../..
 ```
 - Installing flashlight
 ```
-
+git clone --branch v0.3.2 https://github.com/flashlight/flashlight.git
+cd flashlight/bindings/python
+export USE_MKL=0
+python setup.py install
+cd ../../..
 
 ```
 ### Pretraining
