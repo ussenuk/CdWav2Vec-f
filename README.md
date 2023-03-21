@@ -247,6 +247,16 @@ python3 w2v_inference/infer/infer.py ${manifest_path} --task audio_finetuning \
   - infer_single_file_on_swc_models.ipynb
   
 ### Credits
+
+```
+@inproceedings{javed2021building,
+    title = {Towards Building ASR Systems for the Next Billion Users},
+    author = {Tahir Javed and Sumanth Doddapaneni and Abhigyan Raman and Kaushal Santosh Bhogale and Gowtham Ramesh and Anoop Kunchukuttan and Pratyush Kumar and Mitesh M. Khapra},
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    year = "2022 (to appear)",
+}
+```
+
 ### Cite
 ### License
 ### Contact
