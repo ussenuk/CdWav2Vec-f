@@ -52,6 +52,7 @@ cd ..
 git clone https://github.com/AI4Bharat/fairseq.git
 cd fairseq
 pip install --editable ./
+cd ..
 ```
 - Installing KenLM
 ```
