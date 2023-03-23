@@ -46,7 +46,7 @@ pip install -r w2v_inference/requirements.txt
 
 cd ..
 ```
-- Installing Fairseq
+- Installing Fairseq (fairseq==0.12.1)
 ```
 git clone https://github.com/AI4Bharat/fairseq.git
 cd fairseq
