@@ -10,8 +10,8 @@ Our models are evaluated on two publicly accessible benchmarks, the Gamayun audi
 
 | model | Ln | Swc |
 |----------|----------|----------|
-|Cdwav2vec | - | - |
-| Cdwav2vec + LM | - | - |
+|Cdwav2vec | 21.4 | 13.7 |
+| Cdwav2vec + LM | 18.4 | 14.7 |
 ## Resources
 ### Download models
 | language | Acoustic model | language model |
