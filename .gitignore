@@ -1,0 +1,8 @@
+*.pt
+/dataset/
+/data_prep_scripts/urls/
+/model/
+/.ipynb_checkpoints/
+data.zip
+*.zip
+/outputs/
