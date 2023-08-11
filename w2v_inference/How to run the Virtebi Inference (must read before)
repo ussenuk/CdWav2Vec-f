@@ -11,7 +11,7 @@ second step
 (pyenv) ubuntu@ip-172-31-30-103:~/lingWav2Vec/w2v_inference/infer$ CUDA_VISIBLE_DEVICES=0 python3 infer.py /home/ubuntu/lingWav2Vec/w2v_inference/datasets_test/swc/ --task audio_finetuning   --nbest 1 --path /home/ubuntu/lingWav2Vec/model_output/swc_fine_tuning_checkpoints/checkpoint_best.pt --gen-subset test --results-path /home/ubuntu/lingWav2Vec/w2v_inference/results/ --w2l-decoder viterbi   --lm-weight 0 --word-score 0 --sil-weight 0 --criterion ctc --labels ltr --max-tokens 5000000   --post-process letter
 
 
-third step 
+third step -t
 
 perform calculation in infer/wer
 
