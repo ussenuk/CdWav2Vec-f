@@ -1,29 +1,51 @@
 # CdWav2Vec
 
+Supplementary material to the paper "Leveraging Additional Resources for Improving Automatic Speech Recognition on Congolese Low-Resource Languages".
+
+This repository is meant to supplement the above paper. It contains the curated 2 datasets ( The Lingala Read Speech Corpus and Congolese Speech Radio Corpus) as well as the experimental details which should be sufficient to reproduce the results. For any questions, contact abre.ussen@students.jkuat.ac.ke
+
+## Datasets
+
+Access the datasets [here](https://github.com/ussenuk/CdWav2Vec/tree/master/data_prep_scripts)
+
+## Reproducibility
 Cdwav2vec is a multilingual speech model that has been trained using 4 Congolese languages. This model reflects the broadest variety of Congolese languages within the pool of multilingual speech models.  We fine-tuned this model for downsteam ASR for 2 languages and obtain benchmark results on 2 public benchmarks, namely Congolese Swahili (Gamayun audio mini-kit) and the Lingala Read Speech Corpus.
 
 As part of Cdwav2vec, we are creating the biggest corpora accessible to the public for 4 languages belonging to the Niger-Congo B language family.. We also trained state-of-the-art ASR models for 2 congolese languages.
 
-## Benchmarks
-
-Our models are evaluated on two publicly accessible benchmarks, the Gamayun audio mini-kit (Congolese Swahili subset) and the Lingala Read Speech Corpus, and the results are shown below.
-
-| model | Ln | Swc |
-|----------|----------|----------|
-|Cdwav2vec | 21.4 | 13.7 |
-| Cdwav2vec + LM | 18.4 | 14.7 |
+## Models
 ## Resources
 ### Download models
-| language | Acoustic model | language model |
-|----------|----------|----------|
-|Lingala | fairseq/hf | KenLM |
-| Congolese Swahili | fairseq/hf | KenLM |
-### Pretrained Model (* )
-| Name | Model checkpoint |
+
+### Pretrained Model
+
+| Pretrained model | link |
 |----------|----------|
-|Cdwav2vec Base | fairseq |
+|Cdwav2vec (swc) | [link]() |
+| Cdwav2vec (ln) | [link]()|
+|Cdwav2vec (kon) | [link]() |
+| Cdwav2vec (Tshi/lua) | [link]()|
+| Cdwav2vec* (multi) | [link]()|
 
 (* trained on 4 congolese languages, more details can be found here)
+
+### finetuned Model
+| finetuned on lingala model | link |
+|----------|----------|
+|Cdwav2vec (swc) | [link]() |
+| Cdwav2vec (ln) | [link]()|
+|Cdwav2vec (kon) | [link]() |
+| Cdwav2vec (Tshi/lua) | [link]()|
+| Cdwav2vec* (multi) | [link]()|
+
+
+### Results on additional test sets
+Our models are evaluated on two publicly accessible benchmarks, the Gamayun audio mini-kit (Congolese Swahili subset) and the Lingala Read Speech Corpus, and the results are shown below.
+| model | Ln | Swc |
+|----------|----------|----------|
+|Cdwav2vec (cd_multi) | 21.4 | 13.7 |
+| Cdwav2vec (cd_multi) + LM | 18.4 | 14.7 |
+
 ## Pipeline
 ### Setting up the environment
 - Setting up pip environment
@@ -245,18 +267,26 @@ python3 w2v_inference/infer/infer.py ${manifest_path} --task audio_finetuning \
   
   - infer_single_file_on_swc_models.ipynb
   
-### Credits
+### Preprint
 
 ```
-@inproceedings{javed2021building,
-    title = {Towards Building ASR Systems for the Next Billion Users},
-    author = {Tahir Javed and Sumanth Doddapaneni and Abhigyan Raman and Kaushal Santosh Bhogale and Gowtham Ramesh and Anoop Kunchukuttan and Pratyush Kumar and Mitesh M. Khapra},
-    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
-    year = "2022 (to appear)",
+@ARTICLE{
+  author = {{Kimanuka}, Ussen; {Maina}, Ciira wa; {Buyuk}, Osman},
+  title = "{Speech Recognition Datasets for Low-resource Congolese Languages}",
+  keywords = {Computer Science - Sound, Computer Science - Computation and Language, Electrical Engineering and Systems Science - Audio and Speech Processing},
+  year = 2023,
+  month = May,
+  archivePrefix = {arXiv},
+  adsurl = {[url](http://repository.dkut.ac.ke:8080/xmlui/handle/123456789/7946)}
 }
 ```
 
 ### Cite
 ### License
+License under which the data set is made available: CC-BY
+
+It grants unrestricted, irrevocable, royalty-free, worldwide, indefinite rights to use the works in any way, by any user and for any purpose. The only requirement is that the user credits the author and other parties designated to receive attribution and retains copyright and licence notices.
+
 ### Contact
+abre.ussen@students.jkuat.ac.ke
 ### Acknowledgements
