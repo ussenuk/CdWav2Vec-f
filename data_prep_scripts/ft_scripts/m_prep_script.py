@@ -5,20 +5,24 @@ import os,tqdm
 
 p2root = sys.argv[1]
 
-manifest = p2root+"/manifest/"
-#manifest = "/home/ubuntu/lingWav2Vec/manifest/"
+#manifest = p2root+"/manifest/"
+manifest = "/home/ubuntu/CdWav2Vec/manifest/"
 
 if not os.path.exists(manifest):
     os.makedirs(manifest)
 
 charset = set()
 for folder in tqdm.tqdm(os.listdir(p2root)):
-    if 'manifest' == folder:
-        continue
+    if folder == 'manifest' or folder.startswith('.'):
+        continue  # Skip manifest directory and hidden directories
     wavs = glob.glob(p2root+'/'+folder+'/**/*.wav',recursive=True)
     samples = [len(sf.read(w)[0]) for w in wavs]
-    print(wavs)
+    #print(wavs)
+    if not wavs:
+        print("No WAV files found in folder:", folder)
+        continue
     root = os.path.abspath(os.path.split(wavs[0])[0])
+    print("Root directory:", root)  # Print the root directory
     wavs = [os.path.split(x)[-1] for x in wavs]
 
     wav2trans = dict()
