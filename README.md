@@ -33,7 +33,6 @@ As part of Cdwav2vec, we are creating the biggest corpora accessible to the publ
 
 #### multilingual
 |cd_multi |finetuned on | link |
-|----------|----------|
 |Cdwav2vec  |(swc)| [link](https://drive.google.com/file/d/1gP42NgwJprouqp5KGtcveNC9RE-DgAuL/view?usp=sharing) |
 | Cdwav2vec* (multi) |(ln)| [link](https://drive.google.com/file/d/1vMA8AL9BWt0zb8XiXOQA-skbR9g9V6Uq/view?usp=sharing)|
 
