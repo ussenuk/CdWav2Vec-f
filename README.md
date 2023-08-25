@@ -33,12 +33,14 @@ As part of Cdwav2vec, we are creating the biggest corpora accessible to the publ
 
 #### multilingual
 |cd_multi |finetuned on | link |
+|----------|----------|----------|
 |Cdwav2vec  |(swc)| [link](https://drive.google.com/file/d/1gP42NgwJprouqp5KGtcveNC9RE-DgAuL/view?usp=sharing) |
 | Cdwav2vec* (multi) |(ln)| [link](https://drive.google.com/file/d/1vMA8AL9BWt0zb8XiXOQA-skbR9g9V6Uq/view?usp=sharing)|
 
 #### monolingual
 
 |cd_mono |finetuned on | link |
+|----------|----------|----------|
 | Cdwav2vec  |(swc)| [link](https://drive.google.com/file/d/1Q97Gu8W6gkRl7zM1ZWa3t8qSf5v5Nh7m/view?usp=sharing)|
 |Cdwav2vec  |(kon)| [link](https://drive.google.com/file/d/1V5bYsok8syVi-sGcq1NA5XpfqEbPCCYF/view?usp=sharing) |
 | Cdwav2vec  |(Tshi/lua)| [link](https://drive.google.com/file/d/1z38VcaACUhqyK0yVB3jp5-uWOuoDuLwn/view?usp=sharing)|
