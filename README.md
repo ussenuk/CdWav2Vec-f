@@ -32,7 +32,7 @@ As part of Cdwav2vec, we are creating the biggest corpora accessible to the publ
 ### finetuned Model
 | finetuned on lingala model | link |
 |----------|----------|
-|Cdwav2vec (swc) | [link]() |
+|Cdwav2vec (swc) | [link](https://drive.google.com/file/d/1gP42NgwJprouqp5KGtcveNC9RE-DgAuL/view?usp=sharing) |
 | Cdwav2vec (ln) | [link]()|
 |Cdwav2vec (kon) | [link]() |
 | Cdwav2vec (Tshi/lua) | [link]()|
