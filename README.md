@@ -36,7 +36,7 @@ As part of Cdwav2vec, we are creating the biggest corpora accessible to the publ
 | Cdwav2vec (ln) | [link]()|
 |Cdwav2vec (kon) | [link]() |
 | Cdwav2vec (Tshi/lua) | [link]()|
-| Cdwav2vec* (multi) | [link]()|
+| Cdwav2vec* (multi) | [link](https://drive.google.com/file/d/1vMA8AL9BWt0zb8XiXOQA-skbR9g9V6Uq/view?usp=sharing)|
 
 
 ### Results on additional test sets
