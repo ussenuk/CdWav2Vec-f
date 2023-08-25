@@ -30,14 +30,16 @@ As part of Cdwav2vec, we are creating the biggest corpora accessible to the publ
 (* trained on 4 congolese languages, more details can be found here)
 
 ### finetuned Model
-| finetuned on lingala model | link |
+|cd_multi |finetuned on | link |
 |----------|----------|
-|Cdwav2vec (swc) | [link](https://drive.google.com/file/d/1gP42NgwJprouqp5KGtcveNC9RE-DgAuL/view?usp=sharing) |
-| Cdwav2vec (ln) | [link]()|
-|Cdwav2vec (kon) | [link]() |
-| Cdwav2vec (Tshi/lua) | [link]()|
-| Cdwav2vec* (multi) | [link](https://drive.google.com/file/d/1vMA8AL9BWt0zb8XiXOQA-skbR9g9V6Uq/view?usp=sharing)|
+|Cdwav2vec  |(swc)| [link](https://drive.google.com/file/d/1gP42NgwJprouqp5KGtcveNC9RE-DgAuL/view?usp=sharing) |
+| Cdwav2vec* (multi) |(ln)| [link](https://drive.google.com/file/d/1vMA8AL9BWt0zb8XiXOQA-skbR9g9V6Uq/view?usp=sharing)|
 
+|cd_mono |finetuned on | link |
+| Cdwav2vec  |(swc)| [link](https://drive.google.com/file/d/1Q97Gu8W6gkRl7zM1ZWa3t8qSf5v5Nh7m/view?usp=sharing)|
+|Cdwav2vec  |(kon)| [link](https://drive.google.com/file/d/1V5bYsok8syVi-sGcq1NA5XpfqEbPCCYF/view?usp=sharing) |
+| Cdwav2vec  |(Tshi/lua)| [link](https://drive.google.com/file/d/1z38VcaACUhqyK0yVB3jp5-uWOuoDuLwn/view?usp=sharing)|
+| Cdwav2vec  |ln| [link](https://drive.google.com/file/d/1-ogzY9pp5tAC8yAwgXRL0RuumhT8RTd_/view?usp=sharing)|
 
 ### Results on additional test sets
 Our models are evaluated on two publicly accessible benchmarks, the Gamayun audio mini-kit (Congolese Swahili subset) and the Lingala Read Speech Corpus, and the results are shown below.
