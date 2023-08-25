@@ -21,11 +21,11 @@ As part of Cdwav2vec, we are creating the biggest corpora accessible to the publ
 
 | Pretrained model | link |
 |----------|----------|
-|Cdwav2vec (swc) | [link]() |
-| Cdwav2vec (ln) | [link]()|
-|Cdwav2vec (kon) | [link]() |
-| Cdwav2vec (Tshi/lua) | [link]()|
-| Cdwav2vec* (multi) | [link]()|
+|Cdwav2vec (swc) | [link](https://drive.google.com/file/d/1D_2QOItQjoO9H8T912tIUPf4QKYFDWHf/view?usp=sharing) |
+| Cdwav2vec (ln) | [link](https://drive.google.com/file/d/178CKcAo2V0OtkbH3s3cs7W6wXRYwydqJ/view?usp=sharing)|
+|Cdwav2vec (kon) | [link](https://drive.google.com/file/d/1rub_rVDhoaJ3mWblSydPcp0CMaN59066/view?usp=sharing) |
+| Cdwav2vec (Tshi/lua) | [link](https://drive.google.com/file/d/1s_M5WG3TszgaGRIP--dn332EHzVviIWc/view?usp=sharing)|
+| Cdwav2vec* (multi) | [link](https://drive.google.com/file/d/1eNEilSzMqnoY1BMGHoG8CZD7yhhlwNN1/view?usp=sharing)|
 
 (* trained on 4 congolese languages, more details can be found here)
 
