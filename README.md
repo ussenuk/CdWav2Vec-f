@@ -30,10 +30,14 @@ As part of Cdwav2vec, we are creating the biggest corpora accessible to the publ
 (* trained on 4 congolese languages, more details can be found here)
 
 ### finetuned Model
+
+#### multilingual
 |cd_multi |finetuned on | link |
 |----------|----------|
 |Cdwav2vec  |(swc)| [link](https://drive.google.com/file/d/1gP42NgwJprouqp5KGtcveNC9RE-DgAuL/view?usp=sharing) |
 | Cdwav2vec* (multi) |(ln)| [link](https://drive.google.com/file/d/1vMA8AL9BWt0zb8XiXOQA-skbR9g9V6Uq/view?usp=sharing)|
+
+#### monolingual
 
 |cd_mono |finetuned on | link |
 | Cdwav2vec  |(swc)| [link](https://drive.google.com/file/d/1Q97Gu8W6gkRl7zM1ZWa3t8qSf5v5Nh7m/view?usp=sharing)|
