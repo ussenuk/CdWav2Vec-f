@@ -1,7 +1,5 @@
 # CdWav2Vec
 
-Supplementary material to the paper "Leveraging Additional Resources for Improving Automatic Speech Recognition on Congolese Low-Resource Languages".
-
 This repository is meant to supplement the above paper. It contains the curated 2 datasets ( The Lingala Read Speech Corpus and Congolese Speech Radio Corpus) as well as the experimental details which should be sufficient to reproduce the results. For any questions, contact abre.ussen@students.jkuat.ac.ke
 
 ## Datasets
